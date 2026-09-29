@@ -2,11 +2,7 @@
 
 AI-assisted landing page project developed for the Pareto Talent Executive Assistant Bootcamp.
 
-## View the Live Landing Page
-
-### 👉 [OPEN REMOTE HIRING OS](https://remote-hiring-os.lovable.app)
-
-**Live site:** https://remote-hiring-os.lovable.app
+# 👉 [OPEN THE LIVE LANDING PAGE](https://remote-hiring-os.lovable.app)
 
 ---
 
